@@ -117,7 +117,7 @@ st.markdown(css_lucy, unsafe_allow_html=True)
 def mostrar_logo():
     st.markdown("""
     <div style="text-align: center; margin-bottom: 20px;">
-        <h1 style="font-size: 80px; margin: 0;">🛹⭐🦕</h1>
+        <h1 style="font-size: 80px; margin: 0;">🛹⭐🛹</h1>
         <h1 class="custom-title">⭐ Lucy ⭐</h1>
         <p class="custom-subtitle">✨ ¡Tu apoyo con estilo, joven padawan! ✨</p>
         <p class="custom-subtitle" style="font-size: 0.9em;">💫 Patinetas · Fuerza · Aprendizaje 💫</p>
